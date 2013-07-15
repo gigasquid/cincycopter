@@ -141,6 +141,14 @@ body .site-content p, body .site-content-top p {
     overflow: hidden;
 }
 
+.sponsor-bar {
+    width:100%;
+    background-color: #ddd;
+    text-align: center;
+    border: 1px solid #ADA6A6;
+}
+}
+
 
 #neo {
     background-image: url("../img/sponsor-logos/neo.png");
