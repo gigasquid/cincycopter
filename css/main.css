@@ -163,6 +163,11 @@ body .site-content p, body .site-content-top p {
     padding-bottom: 70px;
 }
 
+#modulus {
+    background-image: url("../img/sponsor-logos/modulus.png");
+    margin-top: 29px;
+}
+
 
 table, tr, td {
     border:0px;
