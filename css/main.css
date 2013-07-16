@@ -81,6 +81,7 @@ body {
 
 body p {
     color: #999;
+    width: 90%;
 }
 
 .site-content, .site-content-top {
