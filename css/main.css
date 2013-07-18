@@ -169,6 +169,11 @@ body .site-content p, body .site-content-top p {
     margin-top: 29px;
 }
 
+#sparkbox {
+    background-image: url("../img/sponsor-logos/sparkbox.png");
+    padding-bottom: 52px;
+}
+
 
 table, tr, td {
     border:0px;
