@@ -176,6 +176,11 @@ body .site-content p, body .site-content-top p {
 
 #limerobot {
     background-image: url("../img/sponsor-logos/lime_robot.png");
+    padding-bottom: 7px;
+}
+
+#roadtrippers {
+    background-image: url("../img/sponsor-logos/roadtrippers.png");
     padding-bottom: 14px;
 }
 
