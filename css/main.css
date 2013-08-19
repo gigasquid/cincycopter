@@ -184,6 +184,11 @@ body .site-content p, body .site-content-top p {
     padding-bottom: 14px;
 }
 
+#apex {
+    background-image: url("../img/sponsor-logos/apex.png");
+    padding-bottom: 14px;
+}
+
 #recruitmilitary {
     background-image: url("../img/sponsor-logos/recruitmilitary.png");
     padding-bottom: 14px;
