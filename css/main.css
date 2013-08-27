@@ -194,6 +194,11 @@ body .site-content p, body .site-content-top p {
     padding-bottom: 14px;
 }
 
+#differential {
+    background-image: url("../img/sponsor-logos/differential.png");
+    padding-bottom: 14px;
+}
+
 table, tr, td {
     border:0px;
 }
